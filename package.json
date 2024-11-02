@@ -1,0 +1,15 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description": "This is my WOOLF University JS Advanced Course HW#5",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "Yurii Bech <bechladen@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.6"
+  }
+}
